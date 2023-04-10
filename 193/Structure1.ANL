@@ -1,0 +1,102 @@
+                                                                 PAGE NO.    1
+
+
+
+             ****************************************************        
+             *                                                  *        
+             *           STAAD.Pro CONNECT Edition/Academic     *        
+             *           Version  22.12.00.142                  *        
+             *           Proprietary Program of                 *        
+             *           Bentley Systems, Inc.                  *        
+             *           Date=    APR 10, 2023                  *        
+             *           Time=    12:33:21                      *        
+             *                                                  *        
+             *  Licensed to: Department of Civil- BMS College   *        
+             ****************************************************        
+
+
+
+     1. STAAD SPACE
+INPUT FILE: G:\193\Structure1.STD
+     2. START JOB INFORMATION
+     3. ENGINEER DATE 10-APR-23
+     4. END JOB INFORMATION
+     5. INPUT WIDTH 79
+     6. UNIT METER KN
+     7. JOINT COORDINATES
+     8. 1 0 0 0; 2 4.00001 0 0; 3 8.00002 0 0; 4 12 0 0
+     9. MEMBER INCIDENCES
+    10. 1 1 2; 2 2 3; 3 3 4
+    11. DEFINE MATERIAL START
+    12. ISOTROPIC CONCRETE
+    13. E 2.17184E+07
+    14. POISSON 0.17
+    15. DENSITY 23.5615
+    16. ALPHA 5.5E-06
+    17. DAMP 0.05
+    18. G 9.28137E+06
+    19. TYPE CONCRETE
+    20. STRENGTH FCU 27578.9
+    21. END DEFINE MATERIAL
+    22. MEMBER PROPERTY
+    23. 1 2 PRIS YD 0.3 ZD 0.2
+    24. 3 PRIS YD 0.45 ZD 0.2
+    25. CONSTANTS
+    26. MATERIAL CONCRETE ALL
+    27. SUPPORTS
+    28. 1 4 FIXED
+    29. 2 3 PINNED
+    30. LOAD 1 LOADTYPE NONE  TITLE LOAD CASE 1
+    31. SELFWEIGHT Y -1 LIST ALL
+    32. LOAD 2 LOADTYPE NONE  TITLE LOAD CASE 2
+    33. MEMBER LOAD
+    34. 1 CON GY -50
+    35. LOAD 3 LOADTYPE NONE  TITLE LOAD CASE 3
+    36. MEMBER LOAD
+    37. 2 UNI GY -30
+    38. 3 LIN Y 0 -20
+     STAAD SPACE                                              -- PAGE NO.    2
+        
+    39. LOAD COMB 4 COMBINATION LOAD CASE 4
+    40. 1 1.5 2 1.5 3 1.5
+    41. PERFORM ANALYSIS
+
+
+
+            P R O B L E M   S T A T I S T I C S
+            -----------------------------------
+
+     NUMBER OF JOINTS          4  NUMBER OF MEMBERS       3
+     NUMBER OF PLATES          0  NUMBER OF SOLIDS        0
+     NUMBER OF SURFACES        0  NUMBER OF SUPPORTS      4
+
+           Using 64-bit analysis engine.
+ 
+           SOLVER USED IS THE IN-CORE ADVANCED MATH SOLVER
+ 
+   TOTAL      PRIMARY LOAD CASES =     3, TOTAL DEGREES OF FREEDOM =       6
+   TOTAL LOAD COMBINATION  CASES =     1  SO FAR.
+
+
+
+    42. FINISH
+
+
+             *********** END OF THE STAAD.Pro RUN ***********         
+
+               **** DATE= APR 10,2023   TIME= 12:33:22 ****
+
+     STAAD SPACE                                              -- PAGE NO.    3
+        
+         ************************************************************
+         *   For technical assistance on STAAD.Pro, please visit    *
+         *   http://www.bentley.com/en/support/                     *
+         *                                                          *
+         *   Details about additional assistance from               *
+         *   Bentley and Partners can be found at program menu      *
+         *   Help->Technical Support                                *
+         *                                                          *
+         *           Copyright (c) Bentley Systems, Inc.            *
+         *                http://www.bentley.com                    *
+         ************************************************************
+                                                                     
