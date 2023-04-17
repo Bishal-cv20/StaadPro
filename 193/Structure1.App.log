@@ -1,45 +1,45 @@
-04/10/2023 11:57:46	Reading UID database.
-04/10/2023 11:57:46	Start loading STAAD model.
-04/10/2023 11:57:46	Reading model file.
-04/10/2023 11:57:46	Reading model file is complete.
-04/10/2023 11:57:46	Processing support.
-04/10/2023 11:57:46	Processing springs.
-04/10/2023 11:57:46	Processing properties.
-04/10/2023 11:57:46	Processing physical properties.
-04/10/2023 11:57:46	Processing constants.
-04/10/2023 11:57:46	Processing BETA constants.
-04/10/2023 11:57:46	Processing hidden analytical member loads.
-04/10/2023 11:57:46	Processing command list for member release.
-04/10/2023 11:57:46	Processing command list for member offset.
-04/10/2023 11:57:46	Processing command list for member specs (cracked).
-04/10/2023 11:57:46	Processing command list for member specs (axial).
-04/10/2023 11:57:46	Processing command list for element release.
-04/10/2023 11:57:46	Processing command list for element offset.
-04/10/2023 11:57:46	Processing command list for element plate stress directive.
-04/10/2023 11:57:46	Processing parameter for Chinese wind load case.
-04/10/2023 11:57:46	End Processing command list.
-04/10/2023 11:57:46	End loading STAAD model.
-04/10/2023 11:57:46	Start Post Analysis method
-04/10/2023 11:57:46	Removed all hidden plates from surfaces
-04/10/2023 11:57:46	Removed all hidden plates
-04/10/2023 11:57:46	Removed all hidden nodes
-04/10/2023 11:57:46	Loading results from MSH file...
-04/10/2023 11:57:46	Building result indices...
-04/10/2023 11:57:46	Loading plate stress results...
-04/10/2023 11:57:46	Set analysis report setup data
-04/10/2023 11:57:46	Starting page setup...
-04/10/2023 11:57:46	Page setup completed
-04/10/2023 11:57:46	Setting available workflows...
-04/10/2023 11:57:46	Post analysis method ends
-04/10/2023 12:33:31	Start Post Analysis method
-04/10/2023 12:33:31	Removed all hidden plates from surfaces
-04/10/2023 12:33:31	Removed all hidden plates
-04/10/2023 12:33:31	Removed all hidden nodes
-04/10/2023 12:33:31	Loading results from MSH file...
-04/10/2023 12:33:31	Building result indices...
-04/10/2023 12:33:31	Loading plate stress results...
-04/10/2023 12:33:31	Set analysis report setup data
-04/10/2023 12:33:31	Starting page setup...
-04/10/2023 12:33:31	Page setup completed
-04/10/2023 12:33:31	Setting available workflows...
-04/10/2023 12:33:31	Post analysis method ends
+04/17/2023 12:30:15	Reading UID database.
+04/17/2023 12:30:15	Start loading STAAD model.
+04/17/2023 12:30:15	Reading model file.
+04/17/2023 12:30:15	Reading model file is complete.
+04/17/2023 12:30:15	Processing support.
+04/17/2023 12:30:15	Processing springs.
+04/17/2023 12:30:15	Processing properties.
+04/17/2023 12:30:15	Processing physical properties.
+04/17/2023 12:30:15	Processing constants.
+04/17/2023 12:30:15	Processing BETA constants.
+04/17/2023 12:30:15	Processing hidden analytical member loads.
+04/17/2023 12:30:15	Processing command list for member release.
+04/17/2023 12:30:15	Processing command list for member offset.
+04/17/2023 12:30:15	Processing command list for member specs (cracked).
+04/17/2023 12:30:15	Processing command list for member specs (axial).
+04/17/2023 12:30:15	Processing command list for element release.
+04/17/2023 12:30:15	Processing command list for element offset.
+04/17/2023 12:30:15	Processing command list for element plate stress directive.
+04/17/2023 12:30:15	Processing parameter for Chinese wind load case.
+04/17/2023 12:30:15	End Processing command list.
+04/17/2023 12:30:15	End loading STAAD model.
+04/17/2023 12:30:15	Start Post Analysis method
+04/17/2023 12:30:15	Removed all hidden plates from surfaces
+04/17/2023 12:30:15	Removed all hidden plates
+04/17/2023 12:30:15	Removed all hidden nodes
+04/17/2023 12:30:15	Loading results from MSH file...
+04/17/2023 12:30:15	Building result indices...
+04/17/2023 12:30:15	Loading plate stress results...
+04/17/2023 12:30:15	Set analysis report setup data
+04/17/2023 12:30:15	Starting page setup...
+04/17/2023 12:30:15	Page setup completed
+04/17/2023 12:30:15	Setting available workflows...
+04/17/2023 12:30:15	Post analysis method ends
+04/17/2023 12:30:40	Start Post Analysis method
+04/17/2023 12:30:40	Removed all hidden plates from surfaces
+04/17/2023 12:30:40	Removed all hidden plates
+04/17/2023 12:30:40	Removed all hidden nodes
+04/17/2023 12:30:40	Loading results from MSH file...
+04/17/2023 12:30:40	Building result indices...
+04/17/2023 12:30:40	Loading plate stress results...
+04/17/2023 12:30:40	Set analysis report setup data
+04/17/2023 12:30:40	Starting page setup...
+04/17/2023 12:30:40	Page setup completed
+04/17/2023 12:30:40	Setting available workflows...
+04/17/2023 12:30:40	Post analysis method ends
