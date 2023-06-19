@@ -1,0 +1,33 @@
+06/19/2023 11:58:37	Reading UID database.
+06/19/2023 11:58:37	Start loading STAAD model.
+06/19/2023 11:58:37	Reading model file.
+06/19/2023 11:58:37	Reading model file is complete.
+06/19/2023 11:58:37	Processing support.
+06/19/2023 11:58:37	Processing springs.
+06/19/2023 11:58:37	Processing properties.
+06/19/2023 11:58:37	Processing physical properties.
+06/19/2023 11:58:37	Processing constants.
+06/19/2023 11:58:37	Processing BETA constants.
+06/19/2023 11:58:37	Processing hidden analytical member loads.
+06/19/2023 11:58:37	Processing command list for member release.
+06/19/2023 11:58:37	Processing command list for member offset.
+06/19/2023 11:58:37	Processing command list for member specs (cracked).
+06/19/2023 11:58:37	Processing command list for member specs (axial).
+06/19/2023 11:58:37	Processing command list for element release.
+06/19/2023 11:58:37	Processing command list for element offset.
+06/19/2023 11:58:37	Processing command list for element plate stress directive.
+06/19/2023 11:58:37	Processing parameter for Chinese wind load case.
+06/19/2023 11:58:37	End Processing command list.
+06/19/2023 11:58:37	End loading STAAD model.
+06/19/2023 11:58:37	Start Post Analysis method
+06/19/2023 11:58:37	Removed all hidden plates from surfaces
+06/19/2023 11:58:37	Removed all hidden plates
+06/19/2023 11:58:37	Removed all hidden nodes
+06/19/2023 11:58:37	Loading results from MSH file...
+06/19/2023 11:58:37	Building result indices...
+06/19/2023 11:58:37	Loading plate stress results...
+06/19/2023 11:58:37	Set analysis report setup data
+06/19/2023 11:58:37	Starting page setup...
+06/19/2023 11:58:37	Page setup completed
+06/19/2023 11:58:37	Setting available workflows...
+06/19/2023 11:58:37	Post analysis method ends

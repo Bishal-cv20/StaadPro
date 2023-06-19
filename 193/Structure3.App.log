@@ -1,0 +1,45 @@
+05/15/2023 11:23:23	Reading UID database.
+05/15/2023 11:23:23	Start loading STAAD model.
+05/15/2023 11:23:23	Reading model file.
+05/15/2023 11:23:23	Reading model file is complete.
+05/15/2023 11:23:23	Processing support.
+05/15/2023 11:23:23	Processing springs.
+05/15/2023 11:23:23	Processing properties.
+05/15/2023 11:23:23	Processing physical properties.
+05/15/2023 11:23:23	Processing constants.
+05/15/2023 11:23:23	Processing BETA constants.
+05/15/2023 11:23:23	Processing hidden analytical member loads.
+05/15/2023 11:23:23	Processing command list for member release.
+05/15/2023 11:23:23	Processing command list for member offset.
+05/15/2023 11:23:23	Processing command list for member specs (cracked).
+05/15/2023 11:23:23	Processing command list for member specs (axial).
+05/15/2023 11:23:23	Processing command list for element release.
+05/15/2023 11:23:23	Processing command list for element offset.
+05/15/2023 11:23:23	Processing command list for element plate stress directive.
+05/15/2023 11:23:23	Processing parameter for Chinese wind load case.
+05/15/2023 11:23:23	End Processing command list.
+05/15/2023 11:23:23	End loading STAAD model.
+05/15/2023 11:23:23	Start Post Analysis method
+05/15/2023 11:23:23	Removed all hidden plates from surfaces
+05/15/2023 11:23:23	Removed all hidden plates
+05/15/2023 11:23:23	Removed all hidden nodes
+05/15/2023 11:23:23	Loading results from MSH file...
+05/15/2023 11:23:23	Building result indices...
+05/15/2023 11:23:23	Loading plate stress results...
+05/15/2023 11:23:23	Set analysis report setup data
+05/15/2023 11:23:23	Starting page setup...
+05/15/2023 11:23:23	Page setup completed
+05/15/2023 11:23:23	Setting available workflows...
+05/15/2023 11:23:23	Post analysis method ends
+05/15/2023 11:24:16	Start Post Analysis method
+05/15/2023 11:24:16	Removed all hidden plates from surfaces
+05/15/2023 11:24:16	Removed all hidden plates
+05/15/2023 11:24:16	Removed all hidden nodes
+05/15/2023 11:24:16	Loading results from MSH file...
+05/15/2023 11:24:16	Building result indices...
+05/15/2023 11:24:16	Loading plate stress results...
+05/15/2023 11:24:16	Set analysis report setup data
+05/15/2023 11:24:16	Starting page setup...
+05/15/2023 11:24:16	Page setup completed
+05/15/2023 11:24:16	Setting available workflows...
+05/15/2023 11:24:16	Post analysis method ends

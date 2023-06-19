@@ -1,45 +1,33 @@
-04/17/2023 12:32:56	Reading UID database.
-04/17/2023 12:32:56	Start loading STAAD model.
-04/17/2023 12:32:56	Reading model file.
-04/17/2023 12:32:56	Reading model file is complete.
-04/17/2023 12:32:56	Processing support.
-04/17/2023 12:32:56	Processing springs.
-04/17/2023 12:32:56	Processing properties.
-04/17/2023 12:32:56	Processing physical properties.
-04/17/2023 12:32:56	Processing constants.
-04/17/2023 12:32:56	Processing BETA constants.
-04/17/2023 12:32:56	Processing hidden analytical member loads.
-04/17/2023 12:32:56	Processing command list for member release.
-04/17/2023 12:32:56	Processing command list for member offset.
-04/17/2023 12:32:56	Processing command list for member specs (cracked).
-04/17/2023 12:32:56	Processing command list for member specs (axial).
-04/17/2023 12:32:56	Processing command list for element release.
-04/17/2023 12:32:56	Processing command list for element offset.
-04/17/2023 12:32:56	Processing command list for element plate stress directive.
-04/17/2023 12:32:56	Processing parameter for Chinese wind load case.
-04/17/2023 12:32:56	End Processing command list.
-04/17/2023 12:32:56	End loading STAAD model.
-04/17/2023 12:32:56	Start Post Analysis method
-04/17/2023 12:32:56	Removed all hidden plates from surfaces
-04/17/2023 12:32:56	Removed all hidden plates
-04/17/2023 12:32:56	Removed all hidden nodes
-04/17/2023 12:32:56	Loading results from MSH file...
-04/17/2023 12:32:56	Building result indices...
-04/17/2023 12:32:56	Loading plate stress results...
-04/17/2023 12:32:56	Set analysis report setup data
-04/17/2023 12:32:56	Starting page setup...
-04/17/2023 12:32:56	Page setup completed
-04/17/2023 12:32:56	Setting available workflows...
-04/17/2023 12:32:56	Post analysis method ends
-04/17/2023 12:33:07	Start Post Analysis method
-04/17/2023 12:33:07	Removed all hidden plates from surfaces
-04/17/2023 12:33:07	Removed all hidden plates
-04/17/2023 12:33:07	Removed all hidden nodes
-04/17/2023 12:33:07	Loading results from MSH file...
-04/17/2023 12:33:07	Building result indices...
-04/17/2023 12:33:07	Loading plate stress results...
-04/17/2023 12:33:07	Set analysis report setup data
-04/17/2023 12:33:07	Starting page setup...
-04/17/2023 12:33:07	Page setup completed
-04/17/2023 12:33:07	Setting available workflows...
-04/17/2023 12:33:07	Post analysis method ends
+05/08/2023 12:44:00	Reading UID database.
+05/08/2023 12:44:00	Start loading STAAD model.
+05/08/2023 12:44:00	Reading model file.
+05/08/2023 12:44:00	Reading model file is complete.
+05/08/2023 12:44:00	Processing support.
+05/08/2023 12:44:00	Processing springs.
+05/08/2023 12:44:00	Processing properties.
+05/08/2023 12:44:00	Processing physical properties.
+05/08/2023 12:44:00	Processing constants.
+05/08/2023 12:44:00	Processing BETA constants.
+05/08/2023 12:44:00	Processing hidden analytical member loads.
+05/08/2023 12:44:00	Processing command list for member release.
+05/08/2023 12:44:00	Processing command list for member offset.
+05/08/2023 12:44:00	Processing command list for member specs (cracked).
+05/08/2023 12:44:00	Processing command list for member specs (axial).
+05/08/2023 12:44:00	Processing command list for element release.
+05/08/2023 12:44:00	Processing command list for element offset.
+05/08/2023 12:44:00	Processing command list for element plate stress directive.
+05/08/2023 12:44:00	Processing parameter for Chinese wind load case.
+05/08/2023 12:44:00	End Processing command list.
+05/08/2023 12:44:00	End loading STAAD model.
+05/08/2023 12:44:00	Start Post Analysis method
+05/08/2023 12:44:00	Removed all hidden plates from surfaces
+05/08/2023 12:44:00	Removed all hidden plates
+05/08/2023 12:44:00	Removed all hidden nodes
+05/08/2023 12:44:00	Loading results from MSH file...
+05/08/2023 12:44:00	Building result indices...
+05/08/2023 12:44:00	Loading plate stress results...
+05/08/2023 12:44:00	Set analysis report setup data
+05/08/2023 12:44:00	Starting page setup...
+05/08/2023 12:44:00	Page setup completed
+05/08/2023 12:44:00	Setting available workflows...
+05/08/2023 12:44:00	Post analysis method ends
